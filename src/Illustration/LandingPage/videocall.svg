@@ -1,0 +1,8 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="videocall">
+<rect id="Rectangle" x="1" y="1" width="78" height="78" rx="39" stroke="white" stroke-width="2"/>
+<g id="listvideocallicon">
+<path id="Stroke 1" fill-rule="evenodd" clip-rule="evenodd" d="M45.3367 42.9125V44.6028C45.3367 47.4634 43.0523 49.8038 40.2602 49.8038H28.0765C25.2844 49.8038 23 47.4634 23 44.6028V34.2009C23 31.3404 25.2844 29 28.0765 29H40.2602C43.0523 29 45.3367 31.3404 45.3367 34.2009V35.7612L55.7436 29.26V49.5437L45.3367 42.9125Z" stroke="white" stroke-width="2"/>
+</g>
+</g>
+</svg>

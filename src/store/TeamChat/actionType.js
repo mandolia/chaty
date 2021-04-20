@@ -1,0 +1,9 @@
+export const GO_TO_NEXT_STEP = 'GO_TO_NEXT_STEP';
+export const BACK_TO_PREVIOUS_STEP = 'BACK_TO_PREVIOUS_STEP';
+export const GO_TO_LAST_STEP = 'GO_TO_LAST_STEP';
+export const GO_TO_SECOND_STEP = 'GO_TO_SECOND_STEP';
+export const CONFIRMATION_STEP = 'CONFIRMATION_STEP';
+export const GO_TO_FIRST_STEP = 'GO_TO_FIRST_STEP';
+export const FINISH_STEP = 'FINISH_STEP';
+export const OPEN_MODEL = 'OPEN_MODEL';
+export const CLOSE_MODEL = 'CLOSE_MODEL'

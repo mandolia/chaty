@@ -1,0 +1,11 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="groupchat">
+<rect id="Rectangle" x="1" y="1" width="78" height="78" rx="39" stroke="white" stroke-width="2"/>
+<g id="groupicon">
+<path id="Stroke 1" fill-rule="evenodd" clip-rule="evenodd" d="M53.6944 34.5556C53.6944 39.2804 49.915 43.1111 45.2535 43.1111C40.5919 43.1111 36.8125 39.2804 36.8125 34.5556C36.8125 29.8307 40.5919 26 45.2535 26C49.915 26 53.6944 29.8307 53.6944 34.5556Z" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Stroke 3" d="M33.7432 54.0002C33.7432 47.9863 38.8964 43.1113 45.2536 43.1113C51.6107 43.1113 56.764 47.9863 56.764 54.0002" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Stroke 5" fill-rule="evenodd" clip-rule="evenodd" d="M35.2782 40.7779C35.2782 43.7844 32.8735 46.2224 29.9063 46.2224C26.9399 46.2224 24.5352 43.7844 24.5352 40.7779C24.5352 37.7707 26.9399 35.3335 29.9063 35.3335C32.8735 35.3335 35.2782 37.7707 35.2782 40.7779Z" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Stroke 7" d="M23 53.9999C23 49.7044 26.2203 46.2222 30.1928 46.2222C32.1787 46.2222 33.9762 47.0925 35.2778 48.4992" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
